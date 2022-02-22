@@ -1,0 +1,6 @@
+Disallow: /index1.html
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /fonts/simplify-icons.svg
+Disallow: /fonts/simplify-icons.ttf
+Disallow: /fonts/simplify-icons.woff
